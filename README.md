@@ -15,5 +15,6 @@ Seven field-report songs. Operative V-9 reports from the plain to the open vorte
 7. The Obsidian Maelstrom Is Not Lord — The Vortex Is His (8101–8200, with 8300 named)
 
 ## Published:
-1. Archive.org : https://archive.org/details/album-101-the-void-psalm-is-not-lord-main-cover.jpg
-2. Zenodo : https://doi.org/10.5281/zenodo.23375949
+1. GitHub: https://github.com/KJC-DNN/Album101_The_Void_Psalm_Is_Not_Lord/releases/tag/101.0.0
+2. Archive.org : https://archive.org/details/album-101-the-void-psalm-is-not-lord-main-cover.jpg
+3. Zenodo : https://doi.org/10.5281/zenodo.23375949
